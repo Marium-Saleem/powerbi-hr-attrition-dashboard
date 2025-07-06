@@ -1,54 +1,57 @@
-# 📊 Employee Insights Dashboard (Power BI)
+# 📊 Mock HR Insights Dashboard (Power BI)
 
-This Power BI dashboard provides a 360-degree view of workforce dynamics across hiring, attrition, demographics, payroll trends, and diversity metrics. Built to support leadership decision-making in HR and operations strategy.
+This Power BI dashboard simulates end-to-end HR intelligence, covering headcount trends, payroll exposure, hiring/attrition patterns, and workforce demographics across a fictional organization.
+
+Built for strategic HR leadership, this report distills actionable insights from data modeled around real-world structures and reporting needs.
 
 ---
 
 ## 🔍 Key Features:
 
-### 🧭 Executive Summary KPIs:
-- Total Employees: 340
-- Attrition Rate: 27%
-- Hiring Rate: 13%
-- Average Tenure: 1.88 years
+### 📈 Executive Summary KPIs:
+- Net Headcount: 281
+- Net Payroll: $55M
+- Average Tenure: 1.65 years
+- Hiring Rate (Monthly trend)
+- Attrition Rate (Monthly trend with issue flagged for review)
 
-### 📈 Dynamic Visuals:
-- **Hires & Leavers by Month** (2019–2025)
-- **Salary by Department**
-- **Leaver Tenure Breakdown**
-- **Hiring Source & Conversion Insights**
-- **Diversity Metrics** (gender, city, age, verticals)
+### 🧭 Drilldowns Include:
+- Hiring by Year (2021–2025)
+- Gender, Age, Marital Status breakdown
+- Tenure bands and experience segmentation
+- Salary by Department (Top 5 contributors)
+- Leavers by Department and Gender
+- Net New Onboarding by City (UK, US)
 
-### 📊 Deep-Dive Sections:
-- **Top 10 Departments by Salary Load**
-- **Departments with No Female Members**
-- **New Joiner & Leaver Analytics by Gender, City, Department**
-- **Attrition vs Hiring Trendline (Monthly %)**
+### 📊 Visual Techniques:
+- Dynamic line and bar charts
+- Slicers by year, month, department
+- KPI card visuals
+- Simulated error spike in attrition rate (for demonstration)
 
 ---
 
 ## 🛠 Tools Used:
-- Power BI Desktop
-- DAX (DIVIDE, CALCULATE, USERELATIONSHIP, COUNT)
-- Power Query (data cleaning + transformation)
-- Excel (raw data prep)
+- Power BI Desktop (DAX, Data Model)
+- Power Query (data shaping)
+- Excel (base mock dataset)
 
 ---
 
-## 📎 Report Objectives:
-- Understand workforce composition and payroll exposure
-- Monitor hiring and attrition trends across months and verticals
-- Identify gaps in diversity and tenure stability
-- Deliver data-backed insights for HR, finance, and strategy leaders
+## 📎 Project Objectives:
+- Build an HR analytics report suitable for C-suite use
+- Showcase ability to structure data from fragmented sources
+- Present interactive dashboards for recruitment, retention, payroll, and DEI visibility
+- Demonstrate use of mock storytelling to simulate real decision-making environments
 
 ---
 
-## 🔐 Data Disclaimer:
-All data has been anonymized and simulated for learning and demonstration purposes. No real employee or organizational identifiers are shared.
+## 🧪 Note on Outliers:
+Attrition Rate shows a 1032% spike for demonstrative purposes. This anomaly is intentional and can be used to simulate how to detect/report logic errors, data gaps, or modeling issues.
 
 ---
 
-📂 **View Dashboard PDF Snapshot:**  
-`New Insights for Portfolio.pdf`
+📄 **View Full Report (PDF):**  
+`Mock Insights.pdf`
 
-📫 **Contact:** [LinkedIn – Mariyam Awan](your-link-here)  
+📬 Contact: [LinkedIn – Mariyam Awan](your-link-here)
