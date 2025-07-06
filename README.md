@@ -1,25 +1,54 @@
-# powerbi-hr-attrition-dashboard
-Power BI dashboard analyzing employee attrition trends with actionable insights
-# HR Attrition Dashboard (Power BI)
+# 📊 Employee Insights Dashboard (Power BI)
 
-### 🎯 Objective:
-Analyze employee attrition trends to uncover high-risk departments, average tenure, and potential retention strategies.
+This Power BI dashboard provides a 360-degree view of workforce dynamics across hiring, attrition, demographics, payroll trends, and diversity metrics. Built to support leadership decision-making in HR and operations strategy.
 
-### 🛠 Tools Used:
-- Power BI
-- DAX
-- Sample HR dataset
+---
 
-### 📊 Key Visuals:
-- Attrition rate by department & gender
-- Monthly attrition trend
-- Tenure distribution
-- Risk hotspots heatmap
+## 🔍 Key Features:
 
-### 🔍 Key Insights:
-- Sales had highest attrition (29%) with peak drop-offs in Q3.
-- Average tenure of exiting employees was under 2 years.
-- High-risk clusters identified in mid-level technical roles.
+### 🧭 Executive Summary KPIs:
+- Total Employees: 340
+- Attrition Rate: 27%
+- Hiring Rate: 13%
+- Average Tenure: 1.88 years
 
-### 🧠 Outcome:
-Insights from this dashboard can help prioritize retention efforts and budget HR interventions strategically.
+### 📈 Dynamic Visuals:
+- **Hires & Leavers by Month** (2019–2025)
+- **Salary by Department**
+- **Leaver Tenure Breakdown**
+- **Hiring Source & Conversion Insights**
+- **Diversity Metrics** (gender, city, age, verticals)
+
+### 📊 Deep-Dive Sections:
+- **Top 10 Departments by Salary Load**
+- **Departments with No Female Members**
+- **New Joiner & Leaver Analytics by Gender, City, Department**
+- **Attrition vs Hiring Trendline (Monthly %)**
+
+---
+
+## 🛠 Tools Used:
+- Power BI Desktop
+- DAX (DIVIDE, CALCULATE, USERELATIONSHIP, COUNT)
+- Power Query (data cleaning + transformation)
+- Excel (raw data prep)
+
+---
+
+## 📎 Report Objectives:
+- Understand workforce composition and payroll exposure
+- Monitor hiring and attrition trends across months and verticals
+- Identify gaps in diversity and tenure stability
+- Deliver data-backed insights for HR, finance, and strategy leaders
+
+---
+
+## 🔐 Data Disclaimer:
+All data has been anonymized and simulated for learning and demonstration purposes. No real employee or organizational identifiers are shared.
+
+---
+
+📂 **View Dashboard PDF Snapshot:**  
+`New Insights for Portfolio.pdf`
+
+📫 **Contact:** [LinkedIn – Mariyam Awan](your-link-here)  
